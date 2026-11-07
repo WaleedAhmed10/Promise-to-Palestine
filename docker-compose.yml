@@ -1,0 +1,21 @@
+# Local PostgreSQL for development:  docker compose up -d
+services:
+  db:
+    image: postgres:16-alpine
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: promise
+      POSTGRES_PASSWORD: promise
+      POSTGRES_DB: promise
+    ports:
+      - "5432:5432"
+    volumes:
+      - promise-data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U promise"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+
+volumes:
+  promise-data:
