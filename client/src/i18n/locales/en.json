@@ -1,0 +1,86 @@
+{
+  "brand": { "name": "Promise to Palestine", "tagline": "Love Beyond Borders" },
+  "nav": { "home": "Home", "donate": "Donate", "stories": "Updates", "about": "About", "main": "Main navigation" },
+  "common": {
+    "donateNow": "Make a promise", "language": "Language", "loading": "Loading", "skip": "Skip to content",
+    "error": "Something went wrong. Please try again.", "readMore": "Read the update", "backHome": "Back to home", "notFound": "This page does not exist."
+  },
+  "hero": {
+    "title": "Make a promise to the families of Palestine",
+    "lead": "Your gift becomes food, clean water, medical care and shelter. Every promise adds one stitch to the panel beside you.",
+    "secondary": "See how funds are used"
+  },
+  "progress": {
+    "raisedOf": "raised of {{goal}} goal", "promises": "promises", "countries": "countries",
+    "stitchCaption": "Each stitch is one promise made.", "beNext": "Be the next stitch.", "panelLabel": "Cross-stitch panel with {{count}} stitches"
+  },
+  "impact": {
+    "title": "What your promise provides",
+    "lead": "Choose an amount that feels right. Every amount helps.",
+    "give": "Give {{amount}}",
+    "items": {
+      "water": { "name": "Clean water", "text": "Helps provide safe drinking water for families." },
+      "food": { "name": "Food parcels", "text": "Helps provide staple food for a household." },
+      "medical": { "name": "Medical care", "text": "Helps provide medicine and treatment." },
+      "shelter": { "name": "Shelter support", "text": "Helps provide a safer place to stay." }
+    }
+  },
+  "how": {
+    "title": "How it works",
+    "steps": {
+      "choose": { "title": "Choose your promise", "text": "Pick an amount, one time or every month." },
+      "pay": { "title": "Pay securely", "text": "Checkout is handled by a trusted payment provider." },
+      "see": { "title": "Watch your stitch appear", "text": "Your promise is added to the panel and, if you wish, to the wall." }
+    }
+  },
+  "allocation": {
+    "title": "Where every promise goes",
+    "lead": "Our plan for how funds are shared across needs.",
+    "food": "Food", "water": "Water", "medical": "Medical care", "shelter": "Shelter"
+  },
+  "wall": {
+    "title": "Recent promises", "lead": "Names and words from people who stand with Palestine.",
+    "empty": "No promises yet. Yours could be the first.", "anonymous": "Anonymous", "monthly": "every month"
+  },
+  "stories": {
+    "title": "Updates", "lead": "News from the campaign and how your gifts are put to work.",
+    "empty": "No updates yet. Check back soon.", "published": "Published {{date}}"
+  },
+  "donate": {
+    "title": "Make your promise",
+    "lead": "Every gift, large or small, becomes a stitch in this story.",
+    "amount": "Amount", "custom": "Other amount", "frequency": "How often",
+    "once": "One time", "monthly": "Every month",
+    "name": "Your name", "nameHint": "Shown on the wall of promises. Optional.",
+    "email": "Email", "emailHint": "For your receipt. We never show it publicly.",
+    "country": "Country", "countryNone": "Prefer not to say",
+    "message": "A message of support", "messageHint": "Up to 280 characters. Optional.",
+    "anonymous": "Keep my name private", "showAmount": "Show my amount on the wall",
+    "submit": "Give {{amount}}", "submitMonthly": "Give {{amount}} every month", "sending": "Sending",
+    "secure": "Payments are processed securely. We never see or store your card details.",
+    "demo": "Demo mode: no real money is taken.",
+    "unavailable": "Donations are not open yet. Please check back soon.",
+    "cancelled": "Your payment was cancelled. You can try again below.",
+    "minError": "Enter an amount of at least {{min}}.",
+    "validation": "Check the form and try again.",
+    "tooMany": "Too many attempts. Please wait a while and try again."
+  },
+  "thanks": {
+    "title": "Thank you. Your stitch is in.",
+    "lead": "Your promise has been received. A receipt will arrive by email.",
+    "demo": "This was a demo promise. No real payment was made.",
+    "share": "Share this campaign", "copied": "Link copied", "shareText": "I made a promise to Palestine. Join me."
+  },
+  "newsletter": {
+    "title": "Hear how your promise is kept", "lead": "A short email when there is news. Unsubscribe any time.",
+    "email": "Email address", "submit": "Subscribe", "done": "You are subscribed. Thank you."
+  },
+  "about": {
+    "title": "About this project",
+    "p1": "Promise to Palestine began from the heart: a belief that compassion should not stop at a border. We bring people together to send food, clean water, medical care and shelter to families who need it.",
+    "p2": "The word promise is deliberate. A gift is a single moment. A promise is a commitment to keep showing up, which is why you can give once or every month.",
+    "transparencyTitle": "Our commitment to openness",
+    "transparencyText": "We publish how funds are allocated, share updates as work is delivered, and never show your email or card details."
+  },
+  "footer": { "rights": "© {{year}} Promise to Palestine: Love Beyond Borders", "privacy": "We keep your email private and never sell it." }
+}

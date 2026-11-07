@@ -1,0 +1,86 @@
+{
+  "brand": { "name": "Promesa a Palestina", "tagline": "Amor sin fronteras" },
+  "nav": { "home": "Inicio", "donate": "Donar", "stories": "Novedades", "about": "Acerca de", "main": "Navegación principal" },
+  "common": {
+    "donateNow": "Hacer una promesa", "language": "Idioma", "loading": "Cargando", "skip": "Saltar al contenido",
+    "error": "Algo salió mal. Inténtelo de nuevo.", "readMore": "Leer la novedad", "backHome": "Volver al inicio", "notFound": "Esta página no existe."
+  },
+  "hero": {
+    "title": "Haga una promesa a las familias de Palestina",
+    "lead": "Su donación se convierte en alimentos, agua potable, atención médica y refugio. Cada promesa añade una puntada al panel que tiene al lado.",
+    "secondary": "Ver cómo se usan los fondos"
+  },
+  "progress": {
+    "raisedOf": "recaudados de una meta de {{goal}}", "promises": "promesas", "countries": "países",
+    "stitchCaption": "Cada puntada es una promesa hecha.", "beNext": "Sea la próxima puntada.", "panelLabel": "Panel de bordado con {{count}} puntadas"
+  },
+  "impact": {
+    "title": "Qué aporta su promesa",
+    "lead": "Elija una cantidad que le parezca bien. Toda cantidad ayuda.",
+    "give": "Donar {{amount}}",
+    "items": {
+      "water": { "name": "Agua potable", "text": "Ayuda a proporcionar agua segura para beber a las familias." },
+      "food": { "name": "Paquetes de alimentos", "text": "Ayuda a proporcionar alimentos básicos a un hogar." },
+      "medical": { "name": "Atención médica", "text": "Ayuda a proporcionar medicinas y tratamiento." },
+      "shelter": { "name": "Apoyo de refugio", "text": "Ayuda a ofrecer un lugar más seguro donde quedarse." }
+    }
+  },
+  "how": {
+    "title": "Cómo funciona",
+    "steps": {
+      "choose": { "title": "Elija su promesa", "text": "Seleccione una cantidad, una sola vez o cada mes." },
+      "pay": { "title": "Pague con seguridad", "text": "El pago lo gestiona un proveedor de confianza." },
+      "see": { "title": "Vea aparecer su puntada", "text": "Su promesa se añade al panel y, si lo desea, al muro." }
+    }
+  },
+  "allocation": {
+    "title": "Adónde va cada promesa",
+    "lead": "Nuestro plan para repartir los fondos según las necesidades.",
+    "food": "Alimentos", "water": "Agua", "medical": "Atención médica", "shelter": "Refugio"
+  },
+  "wall": {
+    "title": "Promesas recientes", "lead": "Nombres y palabras de quienes están junto a Palestina.",
+    "empty": "Aún no hay promesas. La suya podría ser la primera.", "anonymous": "Anónimo", "monthly": "cada mes"
+  },
+  "stories": {
+    "title": "Novedades", "lead": "Noticias de la campaña y de cómo se usan sus donaciones.",
+    "empty": "Aún no hay novedades. Vuelva pronto.", "published": "Publicado el {{date}}"
+  },
+  "donate": {
+    "title": "Haga su promesa",
+    "lead": "Cada donación, grande o pequeña, se convierte en una puntada de esta historia.",
+    "amount": "Cantidad", "custom": "Otra cantidad", "frequency": "Frecuencia",
+    "once": "Una vez", "monthly": "Cada mes",
+    "name": "Su nombre", "nameHint": "Se muestra en el muro de promesas. Opcional.",
+    "email": "Correo electrónico", "emailHint": "Para su recibo. Nunca se muestra públicamente.",
+    "country": "País", "countryNone": "Prefiero no decirlo",
+    "message": "Un mensaje de apoyo", "messageHint": "Hasta 280 caracteres. Opcional.",
+    "anonymous": "Mantener mi nombre privado", "showAmount": "Mostrar mi cantidad en el muro",
+    "submit": "Donar {{amount}}", "submitMonthly": "Donar {{amount}} cada mes", "sending": "Enviando",
+    "secure": "Los pagos se procesan de forma segura. Nunca vemos ni guardamos los datos de su tarjeta.",
+    "demo": "Modo de demostración: no se cobra dinero real.",
+    "unavailable": "Las donaciones aún no están abiertas. Vuelva pronto.",
+    "cancelled": "Se canceló su pago. Puede intentarlo de nuevo abajo.",
+    "minError": "Introduzca una cantidad de al menos {{min}}.",
+    "validation": "Revise el formulario e inténtelo de nuevo.",
+    "tooMany": "Demasiados intentos. Espere un momento e inténtelo de nuevo."
+  },
+  "thanks": {
+    "title": "Gracias. Su puntada está puesta.",
+    "lead": "Hemos recibido su promesa. Recibirá un recibo por correo electrónico.",
+    "demo": "Esta fue una promesa de demostración. No se realizó ningún pago real.",
+    "share": "Compartir esta campaña", "copied": "Enlace copiado", "shareText": "Hice una promesa a Palestina. Únase."
+  },
+  "newsletter": {
+    "title": "Sepa cómo se cumple su promesa", "lead": "Un correo breve cuando haya novedades. Puede darse de baja cuando quiera.",
+    "email": "Correo electrónico", "submit": "Suscribirme", "done": "Está suscrito. Gracias."
+  },
+  "about": {
+    "title": "Acerca del proyecto",
+    "p1": "Promesa a Palestina nació del corazón: la creencia de que la compasión no se detiene en una frontera. Reunimos a personas para hacer llegar alimentos, agua potable, atención médica y refugio a las familias que lo necesitan.",
+    "p2": "La palabra promesa es intencionada. Una donación es un momento. Una promesa es el compromiso de seguir presente, por eso puede donar una vez o cada mes.",
+    "transparencyTitle": "Nuestro compromiso de transparencia",
+    "transparencyText": "Publicamos cómo se reparten los fondos, compartimos novedades a medida que avanza el trabajo y nunca mostramos su correo ni los datos de su tarjeta."
+  },
+  "footer": { "rights": "© {{year}} Promesa a Palestina: amor sin fronteras", "privacy": "Mantenemos su correo en privado y nunca lo vendemos." }
+}

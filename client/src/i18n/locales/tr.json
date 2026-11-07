@@ -1,0 +1,86 @@
+{
+  "brand": { "name": "Filistin'e Söz", "tagline": "Sınırların Ötesinde Sevgi" },
+  "nav": { "home": "Ana sayfa", "donate": "Bağış yap", "stories": "Gelişmeler", "about": "Hakkında", "main": "Ana gezinme" },
+  "common": {
+    "donateNow": "Söz ver", "language": "Dil", "loading": "Yükleniyor", "skip": "İçeriğe geç",
+    "error": "Bir şeyler ters gitti. Lütfen tekrar deneyin.", "readMore": "Gelişmeyi oku", "backHome": "Ana sayfaya dön", "notFound": "Bu sayfa mevcut değil."
+  },
+  "hero": {
+    "title": "Filistin'deki ailelere söz verin",
+    "lead": "Bağışınız yiyecek, temiz su, tıbbi bakım ve barınağa dönüşür. Her söz, yanınızdaki panoya bir ilmek ekler.",
+    "secondary": "Fonların nasıl kullanıldığını görün"
+  },
+  "progress": {
+    "raisedOf": "toplandı, hedef {{goal}}", "promises": "söz", "countries": "ülke",
+    "stitchCaption": "Her ilmek verilmiş bir sözdür.", "beNext": "Sıradaki ilmek siz olun.", "panelLabel": "{{count}} ilmekli işleme panosu"
+  },
+  "impact": {
+    "title": "Sözünüz neyi sağlar",
+    "lead": "Size uygun bir tutar seçin. Her tutar yardımcı olur.",
+    "give": "{{amount}} bağışla",
+    "items": {
+      "water": { "name": "Temiz su", "text": "Ailelere güvenli içme suyu sağlanmasına yardımcı olur." },
+      "food": { "name": "Gıda kolileri", "text": "Bir haneye temel gıda sağlanmasına yardımcı olur." },
+      "medical": { "name": "Tıbbi bakım", "text": "İlaç ve tedavi sağlanmasına yardımcı olur." },
+      "shelter": { "name": "Barınma desteği", "text": "Daha güvenli bir yer sağlanmasına yardımcı olur." }
+    }
+  },
+  "how": {
+    "title": "Nasıl çalışır",
+    "steps": {
+      "choose": { "title": "Sözünüzü seçin", "text": "Bir tutar seçin; tek seferlik veya her ay." },
+      "pay": { "title": "Güvenle ödeyin", "text": "Ödeme, güvenilir bir ödeme sağlayıcısı tarafından yapılır." },
+      "see": { "title": "İlmeğinizin belirmesini izleyin", "text": "Sözünüz panoya ve isterseniz söz duvarına eklenir." }
+    }
+  },
+  "allocation": {
+    "title": "Her söz nereye gidiyor",
+    "lead": "Fonların ihtiyaçlar arasında nasıl paylaşılacağına dair planımız.",
+    "food": "Gıda", "water": "Su", "medical": "Tıbbi bakım", "shelter": "Barınma"
+  },
+  "wall": {
+    "title": "Son sözler", "lead": "Filistin'in yanında duran insanların adları ve sözleri.",
+    "empty": "Henüz söz yok. İlki sizinki olabilir.", "anonymous": "Anonim", "monthly": "her ay"
+  },
+  "stories": {
+    "title": "Gelişmeler", "lead": "Kampanyadan haberler ve bağışlarınızın nasıl kullanıldığı.",
+    "empty": "Henüz gelişme yok. Yakında tekrar bakın.", "published": "{{date}} tarihinde yayımlandı"
+  },
+  "donate": {
+    "title": "Sözünüzü verin",
+    "lead": "Küçük ya da büyük her bağış, bu hikâyede bir ilmek olur.",
+    "amount": "Tutar", "custom": "Başka tutar", "frequency": "Sıklık",
+    "once": "Tek seferlik", "monthly": "Her ay",
+    "name": "Adınız", "nameHint": "Söz duvarında gösterilir. İsteğe bağlı.",
+    "email": "E-posta", "emailHint": "Makbuzunuz için. Asla herkese açık gösterilmez.",
+    "country": "Ülke", "countryNone": "Belirtmek istemiyorum",
+    "message": "Destek mesajı", "messageHint": "En fazla 280 karakter. İsteğe bağlı.",
+    "anonymous": "Adımı gizli tut", "showAmount": "Tutarımı duvarda göster",
+    "submit": "{{amount}} bağışla", "submitMonthly": "Her ay {{amount}} bağışla", "sending": "Gönderiliyor",
+    "secure": "Ödemeler güvenle işlenir. Kart bilgilerinizi görmeyiz ve saklamayız.",
+    "demo": "Demo modu: gerçek para çekilmez.",
+    "unavailable": "Bağışlar henüz açılmadı. Lütfen yakında tekrar bakın.",
+    "cancelled": "Ödemeniz iptal edildi. Aşağıdan tekrar deneyebilirsiniz.",
+    "minError": "En az {{min}} tutarında bir değer girin.",
+    "validation": "Formu kontrol edip tekrar deneyin.",
+    "tooMany": "Çok fazla deneme. Lütfen biraz bekleyip tekrar deneyin."
+  },
+  "thanks": {
+    "title": "Teşekkürler. İlmeğiniz eklendi.",
+    "lead": "Sözünüz alındı. Makbuz e-posta ile gelecek.",
+    "demo": "Bu bir demo sözdü. Gerçek ödeme yapılmadı.",
+    "share": "Bu kampanyayı paylaş", "copied": "Bağlantı kopyalandı", "shareText": "Filistin'e söz verdim. Siz de katılın."
+  },
+  "newsletter": {
+    "title": "Sözünüzün nasıl tutulduğunu öğrenin", "lead": "Haber olduğunda kısa bir e-posta. İstediğiniz zaman abonelikten çıkın.",
+    "email": "E-posta adresi", "submit": "Abone ol", "done": "Abone oldunuz. Teşekkürler."
+  },
+  "about": {
+    "title": "Proje hakkında",
+    "p1": "Filistin'e Söz yürekten başladı: merhametin sınırlarda durmaması gerektiği inancıyla. İhtiyaç sahibi ailelere yiyecek, temiz su, tıbbi bakım ve barınak ulaştırmak için insanları bir araya getiriyoruz.",
+    "p2": "Söz kelimesi bilinçli seçildi. Bağış bir andır. Söz ise yanında olmaya devam etme taahhüdüdür; bu yüzden tek seferlik ya da her ay bağış yapabilirsiniz.",
+    "transparencyTitle": "Şeffaflık taahhüdümüz",
+    "transparencyText": "Fonların nasıl dağıtıldığını yayımlıyor, çalışma ilerledikçe gelişmeleri paylaşıyor ve e-postanızı ya da kart bilgilerinizi asla göstermiyoruz."
+  },
+  "footer": { "rights": "© {{year}} Filistin'e Söz: Sınırların Ötesinde Sevgi", "privacy": "E-postanızı gizli tutar ve asla satmayız." }
+}
